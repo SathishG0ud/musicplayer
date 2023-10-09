@@ -1,8 +1,7 @@
-# musicplayer
-Certainly! Here's a brief description of the music player application along with a list of the modules used in the code, as requested:
+# musicplayer using PYTHON
 
 **Description:**
-This music player application was created by Sathish Goud. It is a simple graphical user interface (GUI) program that allows users to play and manage their music collection. The app provides features like selecting a music folder, listing songs with numbers, playing, pausing, stopping, and navigating between songs. It also includes a progress bar to track the playback progress of the currently playing song.
+This music player application was created by Sathish Goud. It is a simple graphical user interface (GUI) program that allows users to play and manage their music collection. The app provides features like selecting a music folder, listing songs, playing, pausing, stopping, and navigating between songs. It also includes a progress bar to track the playback progress of the currently playing song.
 
 **Modules Used:**
 1. `tkinter`: Used for creating the graphical user interface (GUI) of the application.
